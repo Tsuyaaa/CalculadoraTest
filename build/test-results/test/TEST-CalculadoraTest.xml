@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculadoraTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-03-09T18:32:21" hostname="DESKTOP-E2J8P4C" time="0.039">
+  <properties/>
+  <testcase name="subTest()" classname="CalculadoraTest" time="0.019"/>
+  <testcase name="multiTest()" classname="CalculadoraTest" time="0.0"/>
+  <testcase name="verifyParTest()" classname="CalculadoraTest" time="0.002"/>
+  <testcase name="verifyImparTest()" classname="CalculadoraTest" time="0.001"/>
+  <testcase name="verifyImarTestFaçse()" classname="CalculadoraTest" time="0.001"/>
+  <testcase name="diviTest()" classname="CalculadoraTest" time="0.001"/>
+  <testcase name="verifyParTestFalse()" classname="CalculadoraTest" time="0.002"/>
+  <testcase name="somaTestDouble()" classname="CalculadoraTest" time="0.002"/>
+  <testcase name="somaTest()" classname="CalculadoraTest" time="0.0"/>
+  <testcase name="subTestDouble()" classname="CalculadoraTest" time="0.0"/>
+  <testcase name="multiTestDouble()" classname="CalculadoraTest" time="0.0"/>
+  <testcase name="diviTestDouble()" classname="CalculadoraTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
